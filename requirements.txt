@@ -1,6 +1,8 @@
+flask
 azure-functions
 pdfplumber
 pandas
 
 openpyxl
 gunicorn
+
